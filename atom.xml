@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>随风浪敛，守拙求真</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://polarregionlee.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2025-11-28T15:06:00.230Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://polarregionlee.github.io/"/>
+  <updated>2025-11-28T15:11:51.912Z</updated>
+  <id>https://polarregionlee.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>PolarRegionLee</name>
     
   </author>
   
@@ -18,10 +18,10 @@
   
   <entry>
     <title>1 - 回归博客记录生涯 | 202511</title>
-    <link href="http://example.com/2025/11/28/blog-1-202511/"/>
-    <id>http://example.com/2025/11/28/blog-1-202511/</id>
-    <published>2025-11-28T22:59:34.000Z</published>
-    <updated>2025-11-28T15:06:00.230Z</updated>
+    <link href="https://polarregionlee.github.io/2025/11/28/blog-1-202511/"/>
+    <id>https://polarregionlee.github.io/2025/11/28/blog-1-202511/</id>
+    <published>2025-11-28T14:59:34.000Z</published>
+    <updated>2025-11-28T15:11:51.912Z</updated>
     
     
       
