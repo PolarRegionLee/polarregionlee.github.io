@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>随风浪敛，待潮来，依旧水连天</title>
+  <title>Hexo</title>
   
-  <subtitle>随风浪敛，待潮来，依旧水连天</subtitle>
-  <link href="http://polarregionlee.github.io/atom.xml" rel="self"/>
   
-  <link href="http://polarregionlee.github.io/"/>
-  <updated>2025-11-28T13:33:54.509Z</updated>
-  <id>http://polarregionlee.github.io/</id>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2025-11-28T14:10:19.504Z</updated>
+  <id>http://example.com/</id>
   
   <author>
-    <name>PolarRegionLee</name>
+    <name>John Doe</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>blog_1</title>
-    <link href="http://polarregionlee.github.io/2025/11/28/blog-1/"/>
-    <id>http://polarregionlee.github.io/2025/11/28/blog-1/</id>
-    <published>2025-11-28T13:13:16.000Z</published>
-    <updated>2025-11-28T13:33:54.509Z</updated>
+    <title>回归，扬帆，启航</title>
+    <link href="http://example.com/2025/11/28/plog-1/"/>
+    <id>http://example.com/2025/11/28/plog-1/</id>
+    <published>2025-11-28T22:01:30.000Z</published>
+    <updated>2025-11-28T14:10:19.504Z</updated>
     
     
     
